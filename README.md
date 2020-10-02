@@ -1,2 +1,2 @@
-# Netzwerk_Assignments
+# Netzwerk_Assignment
 Netzwerk Academy Assignments
